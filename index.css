@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    border: 0px;
+}
+.main{
+    display: flex;
+}
+.main1
+{
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: black;
+}
+#img{
+    height: 250px;
+    width: 250px;
+}
+.btn
+{
+    width:150px;
+    height:40px;
+    margin:20px;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: burlywood;
+    cursor: pointer;
+}
+.main2
+{
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: black; 
+}
